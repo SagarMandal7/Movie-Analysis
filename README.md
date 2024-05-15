@@ -1,5 +1,7 @@
 # Movie-Analysis 
 
+![image](https://github.com/SagarMandal7/Movie-Analysis/assets/146010223/e749f3d4-1779-4c67-8fca-2d4647405edf)
+
 This repository contains a set of SQL queries designed for practicing SQL skills. These queries cover a variety of common scenarios such as selecting specific movie information, filtering data based on conditions, and retrieving data from multiple tables. Ideal for SQL learners looking to sharpen their query writing abilities.
 
 ![image](https://github.com/SagarMandal7/Movie-Analysis/assets/146010223/436227ac-3eeb-47f2-8f4b-475e630c7af6)
